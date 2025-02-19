@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RibsTheGreat
 - 👀 I’m interested in coding for First Tech Clallenge and Godot game development
-- 🌱 I’m currently learning Java and GDScript
+- 🌱 I’m currently learning GDScript
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am on the First Tech Challlenge tteam called Almost Reliable Robotics #19856
 
